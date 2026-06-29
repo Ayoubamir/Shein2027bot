@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes
 
-TOKEN = 8917269579:AAGQGn1LBN_TsKT6gCsAKZFPvnRiLrSMmg8
+TOKEN = "8917269579:AAGKVjNLvx-pgTmj08vjpx2PvNsjl3BesYw"
 
 LINK = "https://onelink.shein.com/40/5u7suqhacwzm"
 
